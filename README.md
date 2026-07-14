@@ -27,11 +27,11 @@ My poetry has been featured by prominent Balochi musical artists across various 
 * **"Tao Ida Nae"** - Islam Zemer
   
 
-## Featured Poetry
+<div align="center" dir="rtl">
 
-### 1. [دستونک]
+### 1 دستونک
 
-سفر مئے گْرنچءَ دلءِ اَنچو سَرسَری بوجی
+سفر مئے گْرنچءَ دلءِ اَنچو سَرسَری بوجیت
 چو کاڑے آپءِ سرا مہپراں وتی بوجیت
 
 تئی لنککانی گِلگ چے کہ پہ منا مرچاں
@@ -46,6 +46,8 @@ My poetry has been featured by prominent Balochi musical artists across various 
 آ پیچدار کنانءَ وتی گَڑیں زلفاں
 گوں کَندگےءَ درہیں گلہاں منی بوجیت
 
- چونیں ستارہے نیامءَ دلءِ ءُ دنیاءِ
+چونیں ستارہے نیامءَ دلءِ ءُ دنیاءِ
 زبیر پہ منا رژنائیاں وتی بوجیت
-زبیر قمبر
+
+
+</div>
